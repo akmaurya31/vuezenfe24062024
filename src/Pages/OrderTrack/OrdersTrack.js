@@ -51,7 +51,7 @@ const OrdersTrack = ({ title }) => {
   return (
     <>
       <Helmet>
-        <title>{title || "Welcome To Vuezen"}</title>
+        <title>{title || "Welcome To Luxyara"}</title>
       </Helmet>
       <OrdersTrackMain>
         <Container>

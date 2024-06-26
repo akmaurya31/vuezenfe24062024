@@ -31,7 +31,7 @@ const Faq = ({ title }) => {
                     Why VAT is being quoted in final order calculation in app?
                   </div>
                   <p>
-                    Vuezen is fully GST compliant, the current version of app
+                    Luxyara is fully GST compliant, the current version of app
                     you are using needs to be upgraded to Android & iOS app
                     version 1.9.4 & 2.88 respectively for the correct verbiage.
                     Further - even if order is placed from older versions -
@@ -43,7 +43,7 @@ const Faq = ({ title }) => {
                   <div className="boldfont">How to delete user account ?</div>
                   <p>
                     To request for user account and data deletion, please write
-                    to tech@Vuezen.in. We will revert with resolution within 48
+                    to tech@Luxyara.in. We will revert with resolution within 48
                     hours.
                   </p>
                 </li>
@@ -52,7 +52,7 @@ const Faq = ({ title }) => {
                     I’m not sure about the size and fit of the frames.
                   </div>
                   <p>
-                    At Vuezen, we offer glasses in 3 sizes – small, medium, and
+                    At Luxyara, we offer glasses in 3 sizes – small, medium, and
                     large. Click the ‘Frame Size’ link at the bottom of the page
                     to know your size. ~80-90% of our customers find a medium
                     size frame to be the best fit.
@@ -89,10 +89,10 @@ const Faq = ({ title }) => {
                 </li>
                 <li>
                   <div className="boldfont">
-                    Will Vuezen be able to make my complex power?
+                    Will Luxyara be able to make my complex power?
                   </div>
                   <p>
-                    At Vuezen, we stock all powers – simple and complex. The
+                    At Luxyara, we stock all powers – simple and complex. The
                     unique robotic technology used in our lab ensures that the
                     most complex powers are fitted perfectly, ensuring 100%
                     error-free glasses. Our 10 lakh+ customers can vouch for the
@@ -107,7 +107,7 @@ const Faq = ({ title }) => {
                     You can submit your power details after you complete your
                     purchase. We offer multiple options to provide your
                     prescription to us – upload a picture, enter it online,
-                    email us (power@Vuezen.com) or call us at 000000000
+                    email us (power@Luxyara.com) or call us at 000000000
                   </p>
                 </li>
                 <li>
@@ -145,7 +145,7 @@ const Faq = ({ title }) => {
                     How can I be sure of the quality of the frames?
                   </div>
                   <p>
-                    Quality is at the core of Vuezen’s products. Our plastic
+                    Quality is at the core of Luxyara’s products. Our plastic
                     frames are made from the best quality acetate and our metal
                     frames are made only from steel or titanium – this makes our
                     glasses corrosion and breakage resistant. We also offer a 1
@@ -170,10 +170,10 @@ const Faq = ({ title }) => {
                 <li>
                   <div className="boldfont">
                     I haven’t heard of some of the brands available. How does
-                    Vuezen determine which brands to stock?
+                    Luxyara determine which brands to stock?
                   </div>
                   <p>
-                    All the brands sold on Vuezen are chosen after carefully
+                    All the brands sold on Luxyara are chosen after carefully
                     looking at their product quality, manufacturing processes,
                     and customer service. There are some brands which we have
                     brought to Indian from countries such as Italy, to introduce

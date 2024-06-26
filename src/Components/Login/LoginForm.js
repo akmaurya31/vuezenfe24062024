@@ -161,7 +161,7 @@ const LoginForm = ({ state, setUserName }) => {
             <Form.Control
               type="email"
               placeholder="Enter Email"
-              // placeholder="e.g . johndoe@vuezen.com"
+              // placeholder="e.g . johndoe@Luxyara.com"
               className="logform-input"
               name="email"
               value={formik.email}

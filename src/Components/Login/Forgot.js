@@ -194,7 +194,7 @@ const Forgot = ({title}) => {
   return (
     <>
     <Helmet>
-        <title>{title || "Welcome To Vuezen"}</title>
+        <title>{title || "Welcome To Luxyara"}</title>
       </Helmet>
       <Container>
         <Row>
@@ -214,7 +214,7 @@ const Forgot = ({title}) => {
                 <Form.Control
                   type="email"
                   placeholder="Enter Email"
-                  // placeholder="e.g . johndoe@vuezen.com"
+                  // placeholder="e.g . johndoe@Luxyara.com"
                   className="logform-input"
                   name="email"
                   value={formik.email}

@@ -17,7 +17,7 @@ const About = ({ landingPageData,title }) => {
   return (
     <div>
       <Helmet>
-        <title>{title || "About Vuezen"}</title>
+        <title>{title || "About Luxyara"}</title>
       </Helmet>
       <SmallBanner
         

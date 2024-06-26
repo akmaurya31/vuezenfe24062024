@@ -60,7 +60,7 @@ const FooterMobile = () => {
                         />
                     </span>
                     <span className='text'>
-                        About Vuezen
+                        About Luxyara
                     </span>
                     {/* </Link> */}
                 </ListGroup.Item>

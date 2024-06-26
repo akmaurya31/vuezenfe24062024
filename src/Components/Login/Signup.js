@@ -140,7 +140,7 @@ const Signup = () => {
             </Form.Label>
             <Form.Control
               type="email"
-              // placeholder="e.g . johndoe@vuezen.com"
+              // placeholder="e.g . johndoe@Luxyara.com"
               placeholder="Enter Email"
               onChange={formik.handleChange}
               onBlur={formik.handleBlur}
@@ -195,7 +195,7 @@ const Signup = () => {
             <Col xs={12} className="flex-aligncenter mt-30">
               <Form.Check
                 type="checkbox"
-                // label="Join Vuezen"
+                // label="Join Luxyara"
                 className="keep-check"
                 checked={agreeChecked}
                 onChange={() => {
@@ -221,7 +221,7 @@ const Signup = () => {
                 </span>
               </div>
               {/* <a className="forgot-text-small">
-                I want to join Vuezen, and agree to the rewards{" "}
+                I want to join Luxyara, and agree to the rewards{" "}
                 <span>Terms & Conditions</span>
               </a> */}
             </Col>

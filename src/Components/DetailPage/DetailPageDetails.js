@@ -298,7 +298,7 @@ const DetailPageDetails = ({
         <div className="detailpage-price">
           {symbol || "₹"}{" "}
           {Number(totalPrice - (totalDiscount * totalPrice) / 100)?.toFixed(2)}{" "}
-          {/* <span>Vuezen coupon</span> */}
+          {/* <span>Luxyara coupon</span> */}
         </div>
 
         {/* <div className="detailpage-para">{data?.description},,, </div> */}

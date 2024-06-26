@@ -1,6 +1,6 @@
 import React, { useState, useContext, useEffect } from "react";
 import "./Header.scss";
-import Logo from "../../../Images/vuezen-logo.webp";
+import Logo from "../../../Images/Luxyara-logo.webp";
 import { Container } from "react-bootstrap";
 import shopping_icon from "../../../Images/Bag.webp";
 import Swal from "sweetalert2";

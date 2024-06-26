@@ -33,7 +33,7 @@ const Payment = ({title}) => {
   return (
     <div>
       <Helmet>
-        <title>{title || "Welcome To Vuezen"}</title>
+        <title>{title || "Welcome To Luxyara"}</title>
       </Helmet>
       <Container className="mt-30 mb-30">
         <Row style={{ display: "flex", justifyContent: "center" }}>

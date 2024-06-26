@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from "react";
 import Container from "react-bootstrap/esm/Container";
 import "./Footer.scss";
-import FootLogo from "../../../Images/vuezen-logo.webp";
+import FootLogo from "../../../Images/Luxyara-logo.webp";
 import dropdown_icon from "../../../Images/dropdown_arrow.webp";
 import { useNavigate } from "react-router-dom";
 import { CartDetailContext } from "../../../context/CartDetailContext";
@@ -223,7 +223,7 @@ const Footer = () => {
                 </ul>
               </div>
             </div>
-            <div className="copyright">Vuezen © 2024, All Rights Reserved</div>
+            <div className="copyright">Luxyara © 2024, All Rights Reserved</div>
           </Container>
         </div>
       </div>

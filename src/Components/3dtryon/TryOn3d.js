@@ -141,7 +141,7 @@ function TryOn3d(props) {
   return (
     <div ref={refPlaceHolder} className="JeelizVTOWidget">
       <Helmet>
-        <title>{props?.title || "Welcome To Vuezen"}</title>
+        <title>{props?.title || "Welcome To Luxyara"}</title>
       </Helmet>
       <h5>
         Face a light source, align your face, take off your glasses, and tuck

@@ -21,7 +21,7 @@ const Twoboxes = () => {
             <img src={about4Img} className="img-block-100" />
             <h2>Sustainability</h2>
             <p>
-            We are committed to making a positive impact on both fashion and the environment. Vuezen embraces sustainable practices, using eco-friendly materials and responsible manufacturing processes. Join us in our journey towards a more sustainable future without compromising on style or quality.
+            We are committed to making a positive impact on both fashion and the environment. Luxyara embraces sustainable practices, using eco-friendly materials and responsible manufacturing processes. Join us in our journey towards a more sustainable future without compromising on style or quality.
             </p>
             {/* <div className="shop-light">Shop Now</div> */}
           </Col>
@@ -29,7 +29,7 @@ const Twoboxes = () => {
             <img src={about5Img} className="img-block-100" />
             <h2>Customer Experience</h2>
             <p>
-            Your satisfaction is our priority. Our customer service team is dedicated to ensuring your experience with Vuezen is seamless from selection to delivery. We offer a range of services, including virtual try-ons and expert guidance, to make choosing the perfect pair of glasses an enjoyable experience.
+            Your satisfaction is our priority. Our customer service team is dedicated to ensuring your experience with Luxyara is seamless from selection to delivery. We offer a range of services, including virtual try-ons and expert guidance, to make choosing the perfect pair of glasses an enjoyable experience.
             </p>
             {/* <div className="shop-light">Shop Now</div> */}
           </Col>

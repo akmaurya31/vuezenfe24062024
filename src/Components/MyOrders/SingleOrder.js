@@ -115,7 +115,7 @@ const SingleOrder = ({ item, index, updateState, setUpdateState }) => {
         // Use html2pdf to convert the iframe content to a PDF
         html2pdf(iframe.contentDocument.body, {
           margin: 10,
-          filename: `vuezen_${item?.order_id}_${formatDate(
+          filename: `Luxyara_${item?.order_id}_${formatDate(
             item?.delivery_date
           )}`,
           image: { type: "jpeg", quality: 0.98 },

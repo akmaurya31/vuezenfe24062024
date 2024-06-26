@@ -12,7 +12,7 @@ const TrackOrder = ({title}) => {
   return (
     <>
     <Helmet>
-        <title>{title || "Welcome To Vuezen"}</title>
+        <title>{title || "Welcome To Luxyara"}</title>
       </Helmet>
       <TermsBanner
         heading={"Track Order"}

@@ -48,7 +48,7 @@ const TermsContent = () => {
       <Container className="mt-30 mb-30">
         <TermsContentSection>
           <p>
-            Vuezen is a brand of Luxelace Luxury Private Limited a Company
+            Luxyara is a brand of Luxelace Luxury Private Limited a Company
             Incorporated under the Companies Act, 2013 having Corporate
             Identification Number: U14109UP2023PTC190197 (hereinafter referred
             to as ‘Company’) and having its registered office at A-63, Sector 4,
@@ -59,29 +59,29 @@ const TermsContent = () => {
         <TermsContentSection>
           <h2>1. Policy for NDNC</h2>
           <p>
-            By using the website and/or registering yourself at Vuezen.com you
+            By using the website and/or registering yourself at Luxyara.com you
             authorize us to contact you via email or phone call or sms and offer
             you our services, imparting product knowledge, offer promotional
             offers running on website & offers offered by the associated third
             parties, for which reasons, personally identifiable information may
             be collected. And irrespective of the fact if also you have
             registered yourself under DND or DNC or NCPR service, you still
-            authorize us to give you a call from the Vuezen for the above
+            authorize us to give you a call from the Luxyara for the above
             mentioned purposes till 45 days of your registration with us. This
-            Privacy Policy covers Vuezen’s treatment of personally identifiable
-            information that Vuezen collects when you are on the Vuezen site,
-            and when you use Vuezen’s services. This policy also covers Vuezen’s
-            treatment of any personally identifiable information that Vuezen’s
-            business partners share with Vuezen. This policy does not apply to
-            the practices of companies that Vuezen does not own or control or to
-            people that Vuezen does not employ or manage. Vuezen collects
-            personally identifiable information when you register for a Vuezen
-            account, when you use certain Vuezen products or services, when you
-            visit Vuezen pages, and when you enter promotions. Vuezen may also
+            Privacy Policy covers Luxyara’s treatment of personally identifiable
+            information that Luxyara collects when you are on the Luxyara site,
+            and when you use Luxyara’s services. This policy also covers Luxyara’s
+            treatment of any personally identifiable information that Luxyara’s
+            business partners share with Luxyara. This policy does not apply to
+            the practices of companies that Luxyara does not own or control or to
+            people that Luxyara does not employ or manage. Luxyara collects
+            personally identifiable information when you register for a Luxyara
+            account, when you use certain Luxyara products or services, when you
+            visit Luxyara pages, and when you enter promotions. Luxyara may also
             receive personally identifiable information from our business
-            partners. When you register with Vuezen, we ask for your first name,
+            partners. When you register with Luxyara, we ask for your first name,
             last name, contact no, email, Date of birth and gender. Once you
-            register with Vuezen and sign in to our services, you are not
+            register with Luxyara and sign in to our services, you are not
             anonymous to us. Also during registration, you may be requested to
             register your mobile phone and email id, pager, or other device to
             receive text messages, notifications, and other services to your
@@ -194,14 +194,14 @@ const TermsContent = () => {
               <li>
                 Every person who desires to avail this offer may do so pursuant
                 to independent inquiry, investigation and analysis and shall not
-                have any claim against Vuezen, its employees, directors,
+                have any claim against Luxyara, its employees, directors,
                 representatives or affiliates whatsoever by reason of any loss
                 which may be suffered by such person consequent to or in
                 connection with the sale, whether by reason of anything stated
                 or omitted to be stated herein.
               </li>
               <li>
-                Vuezen reserves the right to amend or modify these terms
+                Luxyara reserves the right to amend or modify these terms
                 (including price) without giving any kind of prior intimation.
               </li>
               <li>
@@ -220,8 +220,8 @@ const TermsContent = () => {
               </li>
               <li>
                 For more information or queries, get in touch here 7.
-                support@Vuezen.com. *In additions of these the terms of use on
-                the Vuezen’s website shall also be applicable.
+                support@Luxyara.com. *In additions of these the terms of use on
+                the Luxyara’s website shall also be applicable.
               </li>
             </ul>
           </p>
@@ -230,16 +230,16 @@ const TermsContent = () => {
         <TermsContentSection>
           <h2>4. T&C FOR Cash and Cash+</h2>
           <p>
-            Vuezen Cash terms
+            Luxyara Cash terms
             <ul>
               <li>
                 - These are the general terms applicable to the discount
-                provided under Vuezen Cash and the specific terms of any offer
+                provided under Luxyara Cash and the specific terms of any offer
                 will be mentioned under products listings/ will be shared
                 separately and will form part of these terms.
               </li>
               <li>
-                - Vuezen cash redemption will always be limited to a certain
+                - Luxyara cash redemption will always be limited to a certain
                 amount/percentage of total order which will be defined under the
                 product listings and will form part of these terms.
               </li>
@@ -247,14 +247,14 @@ const TermsContent = () => {
             </ul>
           </p>
           <p>
-            Vuezen Cash +<p>Gold Max Membership Discount</p>
+            Luxyara Cash +<p>Gold Max Membership Discount</p>
             <ul>
               <li>
                 - Being Gold Max member or having Gold Max Membership in cart is
                 essential to avail offer by any Customer.
               </li>
               <li>
-                - 10% Vuezen cash+ on 1st purchase and 5% Vuezen cash+ on
+                - 10% Luxyara cash+ on 1st purchase and 5% Luxyara cash+ on
                 subsequent purchase until the validity of Gold Membership will
                 be available to the Customer.
               </li>
@@ -262,11 +262,11 @@ const TermsContent = () => {
                 - Purchase amount means total paid amount by the Customer.
               </li>
               <li>
-                - VUEZEN cash+ validity is 364 days or expiry of Gold Membership
+                - Luxyara cash+ validity is 364 days or expiry of Gold Membership
                 whichever is earlier.
               </li>
               <li>
-                - VUEZEN cash+ redemption is available up to a maximum limit of
+                - Luxyara cash+ redemption is available up to a maximum limit of
                 INR 20,000. We reserve the right, at any time, without prior
                 notice and without assigning any reason whatsoever, to
                 add/alter/modify/change or vary these terms and conditions or to
@@ -281,17 +281,17 @@ const TermsContent = () => {
             Any other offers apart from Gold Max Membership
             <ul>
               <li>
-                - VUEZEN cash+ redemption is available up to a maximum limit of
+                - Luxyara cash+ redemption is available up to a maximum limit of
                 INR 20,000. Valid once per user during the offer period.
               </li>
               <li>
-                - Any promotional discount offered in the form of Vuezen Cash +
+                - Any promotional discount offered in the form of Luxyara Cash +
                 will have different expiry and will differ on case to case
                 basis.
               </li>
               <li>
                 - These are the general terms applicable to the discount
-                provided under Vuezen Cash + and the specific terms of any offer
+                provided under Luxyara Cash + and the specific terms of any offer
                 will be mentioned under products listings/ will be shared
                 separately via Whatsapp messages, emails or any other medium of
                 communication and the same will form part of these terms.
@@ -300,8 +300,8 @@ const TermsContent = () => {
           </p>
 
           <p>
-            Product eligible for the discount/ offer under for VUEZEN Cash and
-            VUEZEN Cash+
+            Product eligible for the discount/ offer under for Luxyara Cash and
+            Luxyara Cash+
             <ul>
               <li>
                 - Offer is applicable on select products across select
@@ -315,28 +315,28 @@ const TermsContent = () => {
           </p>
 
           <p>
-            Other key offer terms for VUEZEN Cash and VUEZEN Cash+
+            Other key offer terms for Luxyara Cash and Luxyara Cash+
             <ul>
               <li>
                 - If an order is cancelled, the offer may be made available to
                 customer for utilization again in our sole discretion.
               </li>
               <li>
-                - The amount represented in the wallet and / or as Vuezen Cash/
+                - The amount represented in the wallet and / or as Luxyara Cash/
                 Cash+ under no circumstances should be considered as money or
                 money equivalent. It is strictly in the nature of a discount
                 provided to you on our products.
               </li>
               <li>
-                - You cannot withdraw any amounts/ Vuezen Cash/ Cash+ from your
+                - You cannot withdraw any amounts/ Luxyara Cash/ Cash+ from your
                 wallet and you do not have ownership rights on these discounts.
               </li>
               <li>
-                - Any Vuezen Cash/ Cash+ balance is a discount eligibility
+                - Any Luxyara Cash/ Cash+ balance is a discount eligibility
                 digital voucher which can be utilized to avail discounted
                 products in the manner noted herein. Unless specifically
                 mentioned otherwise, the amount in your wallet as balance/
-                Vuezen Cash/ Cash+ is to be solely and strictly utilized as a
+                Luxyara Cash/ Cash+ is to be solely and strictly utilized as a
                 discount against products on priority as against any other
                 utilization that may be permitted by the Company.
               </li>
@@ -352,19 +352,19 @@ const TermsContent = () => {
           </p>
 
           <p>
-            VUEZEN Cash and VUEZEN Cash + Discount Redemption Process
+            Luxyara Cash and Luxyara Cash + Discount Redemption Process
             <ul>
-              <li>- Login to Vuezen.com (Mobile App/Mobile Site/Website).</li>
+              <li>- Login to Luxyara.com (Mobile App/Mobile Site/Website).</li>
               <li>- Add eligible products to the cart.</li>
               <li>- Proceed to checkout.</li>
               <li>
-                - Apply the Vuezen Cash/ Cash+ on payments page in case you have
-                such discount. In case there is no Vuezen Cash/ Cash+ offer
+                - Apply the Luxyara Cash/ Cash+ on payments page in case you have
+                such discount. In case there is no Luxyara Cash/ Cash+ offer
                 available with you, the whole amount will be required to be paid
                 as noted below.
               </li>
               <li>
-                - Vuezen Cash / Cash + is in the nature of a ‘discount’ on the
+                - Luxyara Cash / Cash + is in the nature of a ‘discount’ on the
                 purchase of eligible product, remaining amounts can be paid by
                 preferred method by the user.
               </li>
@@ -386,27 +386,27 @@ const TermsContent = () => {
             an eligible purchase?
             <ul>
               <li>
-                If you are eligible Vuezen Cash/ Cash+ offer as per the order
+                If you are eligible Luxyara Cash/ Cash+ offer as per the order
                 summary page and you do not receive the same, please contact
-                Vuezen customer care from the help section on Vuezen application
+                Luxyara customer care from the help section on Luxyara application
                 and / or website.
               </li>
             </ul>
           </p>
 
           <p>
-            VUEZEN Cash and VUEZEN Cash+ eligible users
+            Luxyara Cash and Luxyara Cash+ eligible users
             <ul>
               <li>
                 The offer is open to all residents of India holding a valid and
-                active Vuezen account.
+                active Luxyara account.
               </li>
             </ul>
           </p>
 
           <p>
-            Other terms, conditions and policies of Vuezen apply to the offer/
-            VUEZEN Cash / VUEZEN Cash +
+            Other terms, conditions and policies of Luxyara apply to the offer/
+            Luxyara Cash / Luxyara Cash +
             <ul>
               <li>
                 - By participating in the offer on any eligible sale for Cash/
@@ -420,7 +420,7 @@ const TermsContent = () => {
                 our application;
               </li>
               <li>- Warranty terms and conditions;</li>
-              <li>- All applicable terms and conditions of Vuezen; and</li>
+              <li>- All applicable terms and conditions of Luxyara; and</li>
               <li>
                 - Offer specific details/ terms and conditions.
                 <span>This offer is also subject to following conditions:</span>
@@ -434,7 +434,7 @@ const TermsContent = () => {
                 not qualify for the offer.
               </li>
               <li>
-                - Vuezen reserves the right to disqualify the user(s) from the
+                - Luxyara reserves the right to disqualify the user(s) from the
                 benefits of the offer, if any fraudulent activity is identified
                 as being carried out for availing the benefits under the said
                 offer or otherwise by use of the account.
@@ -444,7 +444,7 @@ const TermsContent = () => {
                 accepted these terms and conditions.
               </li>
               <li>
-                - Vuezen reserves the right, at any time, without prior notice
+                - Luxyara reserves the right, at any time, without prior notice
                 and without assigning any reason whatsoever, to
                 add/alter/modify/change or vary these terms and conditions or to
                 replace, wholly or in part, this offer by another offer, whether
@@ -457,20 +457,20 @@ const TermsContent = () => {
                 purely on a best effort basis.
               </li>
               <li>
-                - Nothing herein amounts to a commitment by Vuezen to conduct
+                - Nothing herein amounts to a commitment by Luxyara to conduct
                 further, similar or other offers.
               </li>
               <li>
-                - The above offer is by way of a special offer for Vuezen
+                - The above offer is by way of a special offer for Luxyara
                 registered users only and nothing contained herein shall
-                prejudice or affect the terms and conditions of the Vuezen terms
+                prejudice or affect the terms and conditions of the Luxyara terms
                 and conditions of use and privacy policy. The terms of the above
                 schemes offer(s), shall be in addition to and not in derogation
-                of the terms contained in the Vuezen terms and conditions of use
+                of the terms contained in the Luxyara terms and conditions of use
                 and privacy policy.
               </li>
               <li>
-                - You, the user, understands that Vuezen may use your
+                - You, the user, understands that Luxyara may use your
                 transactional data for purposes of this offer and for checking
                 your eligibility for their products and services and by
                 participating in this offer, you consent to this sharing and
@@ -478,7 +478,7 @@ const TermsContent = () => {
               </li>
               <li>
                 - Under no circumstance will the offer/cashback being offered be
-                settled with cash in lieu by Vuezen
+                settled with cash in lieu by Luxyara
               </li>
               <li>
                 - Returned transactions, disputed or unauthorized/ fraudulent
@@ -497,10 +497,10 @@ const TermsContent = () => {
                 to the user for wrongful acts/omissions attributable to them.
               </li>
               <li>
-                - The user shall indemnify and hold Vuezen harmless against all
+                - The user shall indemnify and hold Luxyara harmless against all
                 damages, liabilities, costs, expenses, claims, suits and
                 proceedings (including reasonable attorneys fee) that may be
-                suffered by Vuezen as a consequence of (i) violation of these
+                suffered by Luxyara as a consequence of (i) violation of these
                 terms and conditions, of the terms of user agreement, privacy
                 policy (subject to change) published on the platform, by user;
                 (ii) violation of applicable laws by user; and (iii) any action
@@ -542,19 +542,19 @@ const TermsContent = () => {
               </li>
               <li>
                 - Customer's right to avail the benefits under the Offer shall
-                continue until such time that Vuezen, at its sole discretion and
+                continue until such time that Luxyara, at its sole discretion and
                 without the obligation of a notice, terminates the offer. The
                 Customer may terminate these at any time by uninstalling the
-                Vuezen App. These Terms will automatically terminate if Customer
+                Luxyara App. These Terms will automatically terminate if Customer
                 fails substantially to comply with them. Upon termination by
-                Customer, or by Vuezen due to Customer's breach of these terms,
+                Customer, or by Luxyara due to Customer's breach of these terms,
                 Customer may not be entitled to any outstanding benefits of the
                 offer.
               </li>
               <li>
                 - These terms and conditions must be read in conjunction with
-                the other terms and conditions of the usage of the Vuezen App
-                and/or Vuezen's website available at ⦁ https://wwww.vuezen.io
+                the other terms and conditions of the usage of the Luxyara App
+                and/or Luxyara's website available at ⦁ https://wwww.Luxyara.io
               </li>
             </ul>
           </p>
@@ -583,7 +583,7 @@ const TermsContent = () => {
             described, Your sole remedy is to return it in unused, unsoiled and
             resale condition. The Company currently offers you the following:
           </p>
-          <p>Eyewear through its website wwww.vuezen.io</p>
+          <p>Eyewear through its website wwww.Luxyara.io</p>
         </TermsContentSection>
 
         <TermsContentSection>
@@ -633,7 +633,7 @@ const TermsContent = () => {
             compliance with this policy we disclose to our End-Users the usage
             of a third-party technology (UXCam) for data collection and comply
             will all applicable laws, rules and regulations, including screen
-            recording of sessions within the scope of Vuezen Android app
+            recording of sessions within the scope of Luxyara Android app
             (Version 3.3.1 only). UXCam Inc. provides a software development kit
             which allows to record and analyse user behavior in mobile apps (the
             “Service(s)”). We agree that we will not provide any Sensitive Data
@@ -648,7 +648,7 @@ const TermsContent = () => {
           <p>
             You will have to submit Your Order for the purchase of the Product
             as detailed under the Website/s or you can e-mail us at
-            support@Vuezen.io or contact us at 000000444.
+            support@Luxyara.io or contact us at 000000444.
           </p>
           <p>
             Once the order is submitted it an express intention to purchase the
@@ -716,7 +716,7 @@ const TermsContent = () => {
             the right to initiate legal proceedings against such persons for
             fraudulent use of the Website/s and any other unlawful acts or acts
             or omissions in breach of these terms and conditions. (i) It is
-            clarified that Vuezen does not charge any fee or charges for the
+            clarified that Luxyara does not charge any fee or charges for the
             payments. If any specific charges or fee is charged by the payment
             gateways, the same will be specifically communicated to You in
             course of the transaction.
@@ -1088,7 +1088,7 @@ const TermsContent = () => {
             our team, we would refund you an amount upto Rs. 100 towards the
             shipping cost or provide you with a voucher; (h) To request for a
             return, refund or exchange, please contact our customer care at ⦁
-            1800-202-4444 or mail us at ⦁ support@Vuezen.com. .and we will get
+            1800-202-4444 or mail us at ⦁ support@Luxyara.com. .and we will get
             in touch with you. Following are the additional requirements for
             specific products: (a) For boxes in which the product is stored:
             Ensure all components are intact included any beads, threads, glass
@@ -1385,22 +1385,22 @@ const TermsContent = () => {
             hereto.{" "}
           </p>
           <p>
-            (f) Vuezen Solutions Pvt. Ltd. sells products under various brands &
+            (f) Luxyara Solutions Pvt. Ltd. sells products under various brands &
             sub-brands (including its own brands such as John Jacobs and
             others).{" "}
           </p>
           <p>
             (g) In case of any issue, you may reach out to our grievance officer
-            Mail on @vuezen.io contact no. 12344322133.
+            Mail on @Luxyara.io contact no. 12344322133.
           </p>
         </TermsContentSection>
 
         <TermsContentSection>
           <h2>29. TERMS AND CONDITIONS FOR EYE TESTING APPOINTMENT</h2>
           <p>
-            - Vuezen offers a facility for the booking of eye testing
+            - Luxyara offers a facility for the booking of eye testing
             appointments. You may make appointments for eye testing by
-            visiting 0. https://www.Vuezen.com/HTO/ or dialling 1234556 By
+            visiting 0. https://www.Luxyara.com/HTO/ or dialling 1234556 By
             making an appointment, you are confirming that: (i) You consent to
             an executive engaged by us to visit and be present at the premises
             designated by you for the purpose of eye testing and further, to pay

@@ -33,7 +33,7 @@ const WomenEyeglasses = () => {
   return (
     <>
      <Helmet>
-        <title>{bannerData?.heading || "Welcome To Vuezen"}</title>
+        <title>{bannerData?.heading || "Welcome To Luxyara"}</title>
       </Helmet>
       <SmallBanner
         smallBannerHead={bannerData?.heading || ""}

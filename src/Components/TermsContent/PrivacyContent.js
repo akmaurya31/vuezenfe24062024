@@ -31,7 +31,7 @@ const PrivacyContent = () => {
     <>
       <Container className="mb-30 mt-30">
         {/* <TermsContentSection>
-                <p>Welcome to Vuezen! Protecting your privacy is important to us. This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal information. By accessing or using our website, you agree to the terms of this policy.</p>
+                <p>Welcome To Luxyara! Protecting your privacy is important to us. This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal information. By accessing or using our website, you agree to the terms of this policy.</p>
             </TermsContentSection> */}
 
         <TermsContentSection>
@@ -75,7 +75,7 @@ const PrivacyContent = () => {
             rights, the same for any other, whether commercial or non-commercial
             purpose which the Company in its sole discretion considers necessary
             for its business purposes or otherwise. You can review, add or
-            update certain information by writing to us at support@Vuezen.com.
+            update certain information by writing to us at support@Luxyara.com.
             When You update information, we usually keep a copy of the prior
             version for our records.
           </p>
@@ -228,12 +228,12 @@ const PrivacyContent = () => {
           <h2>CONDITIONS OF USE, NOTICES, AND REVISIONS</h2>
           <p style={{ marginBottom: "5px" }}>
             Please do read the detailed terms and conditions of the Company’s
-            Website situated athttps://www.Vuezen.com/terms-conditions. If You
+            Website situated athttps://www.Luxyara.com/terms-conditions. If You
             choose to visit this Website, Your visit and any dispute over
             privacy is subject to this Agreement, including limitations on
             damages, arbitration of disputes, and application of the law of the
             Republic of India. If You have any concern about privacy at this
-            Website, please send us a thorough description to support@Vuezen.com
+            Website, please send us a thorough description to support@Luxyara.com
             and we will try to resolve it. Our business changes constantly. This
             Notice and the Terms and Conditions of Website Use may also change,
             and use of information that we gather now is subject to the Privacy
@@ -247,13 +247,13 @@ const PrivacyContent = () => {
           <p style={{ marginBottom: "5px" }}>
             The Company would be glad to provide assistance to You in case You
             have any queries or have any issues pertaining to this Security and
-            Privacy policy. Kindly contact support@Vuezen.com
+            Privacy policy. Kindly contact support@Luxyara.com
           </p>
 
           <h2>COOKIE POLICY</h2>
           <p style={{ marginBottom: "5px" }}>
             A cookie is a small text file that we place on your mobile device to
-            enable various features of Vuezen.com. "Cookies" are used to store
+            enable various features of Luxyara.com. "Cookies" are used to store
             user preferences and to track user trends, so as to enhance Your
             interactive experience and generally improve our services to You.
             You can change Your cookie settings to accept or not accept cookies
@@ -270,29 +270,29 @@ const PrivacyContent = () => {
           </p>
           <h2>NDNC POLICY</h2>
           <p style={{ marginBottom: "5px" }}>
-            By using the website and/or registering yourself at Vuezen.com you
+            By using the website and/or registering yourself at Luxyara.com you
             authorize us to contact you via email or phone call or sms and offer
             you our services, imparting product knowledge, offer promotional
             offers running on website & offers offered by the associated third
             parties, for which reasons, personally identifiable information may
             be collected. And Irrespective of the fact if also you have
             registered yourself under DND or DNC or NCPR service, you still
-            authorize us to give you a call from Vuezen for the above mentioned
+            authorize us to give you a call from Luxyara for the above mentioned
             purposes till 365 days of your registration with us. This Privacy
-            Policy covers Vuezen’s treatment of personally identifiable
-            information that Vuezen collects when you are on the Vuezen site,
-            and when you use Vuezen’s services. This policy also covers Vuezen’s
-            treatment of any personally identifiable information that Vuezen’s
-            business partners share with Vuezen. This policy does not apply to
-            the practices of companies that Vuezen does not own or control or to
-            people that Vuezen does not employ or manage. Vuezen collects
-            personally identifiable information when you register for a Vuezen
-            account, when you use certain Vuezen products or services, when you
-            visit Vuezen pages, and when you enter promotions. Vuezen may also
+            Policy covers Luxyara’s treatment of personally identifiable
+            information that Luxyara collects when you are on the Luxyara site,
+            and when you use Luxyara’s services. This policy also covers Luxyara’s
+            treatment of any personally identifiable information that Luxyara’s
+            business partners share with Luxyara. This policy does not apply to
+            the practices of companies that Luxyara does not own or control or to
+            people that Luxyara does not employ or manage. Luxyara collects
+            personally identifiable information when you register for a Luxyara
+            account, when you use certain Luxyara products or services, when you
+            visit Luxyara pages, and when you enter promotions. Luxyara may also
             receive personally identifiable information from our business
-            partners. When you register with Vuezen, we ask for your first name,
+            partners. When you register with Luxyara, we ask for your first name,
             last name, contact no, email, Date of birth and gender. Once you
-            register with Vuezen and sign in to our services, you are not
+            register with Luxyara and sign in to our services, you are not
             anonymous to us. Also during registration, you may be requested to
             register your mobile phone and email id, pager, or other device to
             receive text messages, notifications, and other services to your

@@ -54,7 +54,7 @@ const ShippingContent = () => {
             shipping times may vary depending on your location.
           </p>
           <p>
-            Vuezen is not responsible for delays or issues caused by third-party
+            Luxyara is not responsible for delays or issues caused by third-party
             shipping carriers. Once the order is shipped, it becomes the
             responsibility of the carrier.
           </p>

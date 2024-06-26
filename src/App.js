@@ -217,7 +217,7 @@ function App() {
                   element={
                     <Homepage
                       landingPageData={landingPageData}
-                      title="Welcome To Vuezen"
+                      title="Welcome To Luxyara"
                     />
                   }
                 />
@@ -233,12 +233,12 @@ function App() {
                 <Route
                   path="/subscribe"
                   exact
-                  element={<LinkPage title="Welcome To Vuezen" />}
+                  element={<LinkPage title="Welcome To Luxyara" />}
                 />
-                <Route path="/about" element={<About title="About Vuezen" />} />
+                <Route path="/about" element={<About title="About Luxyara" />} />
                 <Route
                   path="/contact"
-                  element={<Contact title="Contact Vuezen" />}
+                  element={<Contact title="Contact Luxyara" />}
                 />
                 <Route path="/faqs" element={<Faq title="FAQs" />} />
                 <Route

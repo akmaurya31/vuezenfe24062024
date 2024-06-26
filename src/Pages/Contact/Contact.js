@@ -19,7 +19,7 @@ const Contact = ({ title }) => {
   return (
     <>
       <Helmet>
-        <title>{title || "Contact Vuezen"}</title>
+        <title>{title || "Contact Luxyara"}</title>
       </Helmet>
       <SmallBanner
         smallBannerImage={"contact_us.webp"}

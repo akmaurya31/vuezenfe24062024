@@ -91,7 +91,7 @@ const OrdersTrackDetailsSec = ({ responseData, loading, setLoading }) => {
         // Use html2pdf to convert the iframe content to a PDF
         html2pdf(iframe.contentDocument.body, {
           margin: 10,
-          filename: `vuezen_${responseData?.order_id}_${formatDate(
+          filename: `Luxyara_${responseData?.order_id}_${formatDate(
             responseData?.delivery_date
           )}`,
           image: { type: "jpeg", quality: 0.98 },

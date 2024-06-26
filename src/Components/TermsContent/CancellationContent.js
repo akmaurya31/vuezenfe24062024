@@ -50,7 +50,7 @@ const CancellationContent = () => {
         <TermsContentSection>
           <h2>Cancellation Policy</h2>
           <p>
-            Vuezen strives to provide our customers with the best possible
+            Luxyara strives to provide our customers with the best possible
             service and experience. We understand that sometimes plans change,
             and we’re here to accommodate your needs to the best of our
             abilities.
@@ -67,7 +67,7 @@ const CancellationContent = () => {
           </p>
           <p>
             To cancel your order, please contact our customer service team at
-            [support@vuezen.io /8800682518] with your order details.
+            [support@Luxyara.io /8800682518] with your order details.
           </p>
         </TermsContentSection>
 
@@ -122,7 +122,7 @@ const CancellationContent = () => {
         </TermsContentSection>
 
         <TermsContentSection>
-          <h2>Cancellation by Vuezen</h2>
+          <h2>Cancellation by Luxyara</h2>
           <p>
             We reserve the right to cancel any order due to unforeseen
             circumstances, including but not limited to inventory issues,

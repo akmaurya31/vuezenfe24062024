@@ -18,7 +18,7 @@ const Checkout = ({title}) => {
   return (
     <>
     <Helmet>
-        <title>{title || "Welcome To Vuezen"}</title>
+        <title>{title || "Welcome To Luxyara"}</title>
       </Helmet>
       <div className="cart-details-fluid">
         <Container>

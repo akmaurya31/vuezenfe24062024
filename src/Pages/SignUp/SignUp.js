@@ -28,7 +28,7 @@ const SignUp = ({ type, setUserName }) => {
   return (
     <>
       <Helmet>
-        <title>{type || "Welcome To Vuezen"}</title>
+        <title>{type || "Welcome To Luxyara"}</title>
       </Helmet>
       <Container>
         <Row>

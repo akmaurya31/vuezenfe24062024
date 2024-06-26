@@ -120,7 +120,7 @@ const ContactForm = () => {
                 <input
                   type="text"
                   placeholder="Enter Email"
-                  // placeholder="e.g. johndoe@vuezen.com"
+                  // placeholder="e.g. johndoe@Luxyara.com"
                   name="email"
                   onChange={formik.handleChange}
                   onBlur={formik.handleBlur}
@@ -191,7 +191,7 @@ const ContactForm = () => {
             {/* <img src={formImg} /> */}
             <div>
               <div className="address-shop">
-                <h3 className="shop-name">VUEZEN PRIVATE LIMITED</h3>
+                <h3 className="shop-name">Luxyara PRIVATE LIMITED</h3>
                 <p className="shop-address">
                   Address- A-63, Sector 4, Noida, 201301
                 </p>
@@ -204,7 +204,7 @@ const ContactForm = () => {
                 <p className="content_subhead">
                   We're here to help! Reach out to us at
                 </p>
-                <p className="content">support@vuezen.io</p>
+                <p className="content">support@Luxyara.io</p>
               </div>
 
               <div className="address-shop">
