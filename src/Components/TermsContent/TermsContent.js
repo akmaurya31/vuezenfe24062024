@@ -49,10 +49,7 @@ const TermsContent = () => {
         <TermsContentSection>
           <p>
             Luxyara is a brand of Luxelace Luxury Private Limited a Company
-            Incorporated under the Companies Act, 2013 having Corporate
-            Identification Number: U14109UP2023PTC190197 (hereinafter referred
-            to as ‘Company’) and having its registered office at A-63, Sector 4,
-            Noida Uttar Pradesh 201301.{" "}
+            Incorporated under the Companies Act, 2013 having Corporate.{" "}
           </p>
         </TermsContentSection>
 
