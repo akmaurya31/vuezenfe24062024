@@ -499,10 +499,12 @@ const Header = ({
                     aria-controls="basic-navbar-nav"
                   />
                 </div>
+                {console.log(data)}
                 {data?.map((item, index) => {
                   return item?.genderData.length > 0 ? (
                     <NavDropdown
                       title={item?.title}
+                      className="KK506"
                       id="basic-nav-dropdown"
                       key={index}
                     >
@@ -531,6 +533,7 @@ const Header = ({
                     <NavDropdown
                       title={item?.title}
                       id="basic-nav-dropdown"
+                      className="KK534"
                       key={index}
                       onClick={() =>
                         navigate(
