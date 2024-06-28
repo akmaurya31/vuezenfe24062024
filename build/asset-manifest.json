@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e61ec900.css",
-    "main.js": "/static/js/main.8c71f466.js",
+    "main.js": "/static/js/main.b5e7f2ed.js",
     "static/js/703.c6452b5f.chunk.js": "/static/js/703.c6452b5f.chunk.js",
     "static/js/198.6c423073.chunk.js": "/static/js/198.6c423073.chunk.js",
     "static/media/sunglasses.gif": "/static/media/sunglasses.fe30dcada2213be29897.gif",
@@ -57,8 +57,8 @@
     "static/media/Luxyara-logo.webp": "/static/media/Luxyara-logo.bfc1829e49a9ca119702.webp",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "static/media/coupenBig-Img.webp": "/static/media/coupenBig-Img.d64da0ca56d4b20176b7.webp",
-    "static/media/profile.svg": "/static/media/profile.f3031d61e56c149b9b410c11cda6662b.svg",
     "index.html": "/index.html",
+    "static/media/profile.svg": "/static/media/profile.f3031d61e56c149b9b410c11cda6662b.svg",
     "static/media/temple-length-img.webp": "/static/media/temple-length-img.bf6f0ff94a930d939ceb.webp",
     "static/media/wishlistBig-Img.webp": "/static/media/wishlistBig-Img.e0610aec8428dd6e6bbd.webp",
     "static/media/cartBig-Img.webp": "/static/media/cartBig-Img.21a2edbbfaaeb46c616a.webp",
@@ -75,12 +75,12 @@
     "static/media/Bag.webp": "/static/media/Bag.2dd045210182ec152f9f.webp",
     "static/media/dropdown_arrow.webp": "/static/media/dropdown_arrow.340b5f05e735ad1c2244.webp",
     "main.e61ec900.css.map": "/static/css/main.e61ec900.css.map",
-    "main.8c71f466.js.map": "/static/js/main.8c71f466.js.map",
+    "main.b5e7f2ed.js.map": "/static/js/main.b5e7f2ed.js.map",
     "703.c6452b5f.chunk.js.map": "/static/js/703.c6452b5f.chunk.js.map",
     "198.6c423073.chunk.js.map": "/static/js/198.6c423073.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e61ec900.css",
-    "static/js/main.8c71f466.js"
+    "static/js/main.b5e7f2ed.js"
   ]
 }
