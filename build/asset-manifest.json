@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e61ec900.css",
-    "main.js": "/static/js/main.236ae5e9.js",
+    "main.js": "/static/js/main.30f37003.js",
     "static/js/703.c6452b5f.chunk.js": "/static/js/703.c6452b5f.chunk.js",
     "static/js/198.6c423073.chunk.js": "/static/js/198.6c423073.chunk.js",
     "static/media/sunglasses.gif": "/static/media/sunglasses.fe30dcada2213be29897.gif",
@@ -68,19 +68,19 @@
     "static/media/order-placed.webp": "/static/media/order-placed.7e465913d1007e168dd2.webp",
     "static/media/wishlist.webp": "/static/media/wishlist.ea44ec76a8d7a3592fd8.webp",
     "static/media/coupen.webp": "/static/media/coupen.dad518887a590308fc95.webp",
-    "static/media/Heart.webp": "/static/media/Heart.7e81f56e04d0b061619c.webp",
-    "static/media/Magnifer.webp": "/static/media/Magnifer.04ac3a5b2c0c4acc7344.webp",
+    "static/media/Heart-ok.webp": "/static/media/Heart-ok.7e81f56e04d0b061619c.webp",
+    "static/media/Magnifer-ok.webp": "/static/media/Magnifer-ok.04ac3a5b2c0c4acc7344.webp",
     "static/media/aviatoricon.webp": "/static/media/aviatoricon.4b76d13b7d5fd874725a.webp",
-    "static/media/User.webp": "/static/media/User.2fe73b455051b72fc995.webp",
-    "static/media/Bag.webp": "/static/media/Bag.2dd045210182ec152f9f.webp",
+    "static/media/User-ok.webp": "/static/media/User-ok.2fe73b455051b72fc995.webp",
+    "static/media/Bag-ok.webp": "/static/media/Bag-ok.2dd045210182ec152f9f.webp",
     "static/media/dropdown_arrow.webp": "/static/media/dropdown_arrow.340b5f05e735ad1c2244.webp",
     "main.e61ec900.css.map": "/static/css/main.e61ec900.css.map",
-    "main.236ae5e9.js.map": "/static/js/main.236ae5e9.js.map",
+    "main.30f37003.js.map": "/static/js/main.30f37003.js.map",
     "703.c6452b5f.chunk.js.map": "/static/js/703.c6452b5f.chunk.js.map",
     "198.6c423073.chunk.js.map": "/static/js/198.6c423073.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e61ec900.css",
-    "static/js/main.236ae5e9.js"
+    "static/js/main.30f37003.js"
   ]
 }

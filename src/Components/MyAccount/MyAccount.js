@@ -8,7 +8,7 @@ import {
   faShoppingBasket,
 } from "@fortawesome/free-solid-svg-icons";
 import cartBigImg from "../../Images/cartBig-Img.webp";
-import cartImg from "../../Images/Bag.webp";
+import cartImg from "../../Images/Bag-ok.webp";
 import couponBigImg from "../../Images/coupenBig-Img.webp";
 import couponImg from "../../Images/coupen.webp";
 import wishlistBigImg from "../../Images/wishlistBig-Img.webp";
