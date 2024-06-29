@@ -54,7 +54,7 @@ const Footer = () => {
                     {" "}
                     <img
                       src={`${environmentVar.cdnUrl}/uploads/footer/${resData?.h1_image}`}
-                      alt="Footer Logo"
+                      alt="Footer Logo"  style={{ width: '254px' }}
                     />{" "}
                   </li>
                   <li>{resData?.h1_description}</li>
