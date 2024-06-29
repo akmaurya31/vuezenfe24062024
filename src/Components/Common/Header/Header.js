@@ -327,7 +327,7 @@ const Header = ({
         <div className="header-left">
           <Navbar expanded={expanded} expand="lg">
             <Navbar.Brand onClick={() => navigate("/")}>
-              <img src={Logo} alt="Logo" />
+              <img src={Logo} alt="Logo" style={{ width: '250px' }}   />
             </Navbar.Brand>
 
             <div className="header-icons-for-mobile">

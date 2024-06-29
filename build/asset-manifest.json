@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e61ec900.css",
-    "main.js": "/static/js/main.a2a4edb4.js",
+    "main.js": "/static/js/main.d8c2a545.js",
     "static/js/703.c6452b5f.chunk.js": "/static/js/703.c6452b5f.chunk.js",
     "static/js/198.6c423073.chunk.js": "/static/js/198.6c423073.chunk.js",
     "static/media/sunglasses.gif": "/static/media/sunglasses.fe30dcada2213be29897.gif",
@@ -16,6 +16,7 @@
     "service-worker.js": "/service-worker.js",
     "static/media/contact-form-img.webp": "/static/media/contact-form-img.a3066a87d4c6d01c1781.webp",
     "static/media/girl-mobile.webp": "/static/media/girl-mobile.15158f74360b8a8ae6af.webp",
+    "static/media/Luxyara-logo.webp": "/static/media/Luxyara-logo.0df11bfde190df0bf2e2.webp",
     "static/media/login-img.webp": "/static/media/login-img.1550293091d4d4d956e1.webp",
     "static/media/veuzen-banner.webp": "/static/media/veuzen-banner.a9a103d0adc40e21331c.webp",
     "static/media/best-sell2.webp": "/static/media/best-sell2.5fd372bd8a17601db288.webp",
@@ -54,7 +55,6 @@
     "static/media/bridge-width-img.webp": "/static/media/bridge-width-img.975f88838c3b699dd9ab.webp",
     "static/media/orderSummaryItem-Img.webp": "/static/media/orderSummaryItem-Img.aade8057c7e161760b01.webp",
     "static/media/color-lines.webp": "/static/media/color-lines.5db60f85a79e905385c7.webp",
-    "static/media/Luxyara-logo.webp": "/static/media/Luxyara-logo.bfc1829e49a9ca119702.webp",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "static/media/coupenBig-Img.webp": "/static/media/coupenBig-Img.d64da0ca56d4b20176b7.webp",
     "index.html": "/index.html",
@@ -75,12 +75,12 @@
     "static/media/Bag.webp": "/static/media/Bag.2dd045210182ec152f9f.webp",
     "static/media/dropdown_arrow.webp": "/static/media/dropdown_arrow.340b5f05e735ad1c2244.webp",
     "main.e61ec900.css.map": "/static/css/main.e61ec900.css.map",
-    "main.a2a4edb4.js.map": "/static/js/main.a2a4edb4.js.map",
+    "main.d8c2a545.js.map": "/static/js/main.d8c2a545.js.map",
     "703.c6452b5f.chunk.js.map": "/static/js/703.c6452b5f.chunk.js.map",
     "198.6c423073.chunk.js.map": "/static/js/198.6c423073.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e61ec900.css",
-    "static/js/main.a2a4edb4.js"
+    "static/js/main.d8c2a545.js"
   ]
 }
