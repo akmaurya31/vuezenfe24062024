@@ -119,39 +119,26 @@ const Faq = ({ title }) => {
                 </li>
                 <li>
                   <div className="boldfont">
-                    I haven’t heard of some of the brands available. How does
-                    Luxyara determine which brands to stock?
+                  I haven’t heard of some of the brands available. How does Luxyara determine which brands to stock?
                   </div>
                   <p>
-                    All the brands sold on Luxyara are chosen after carefully
-                    looking at their product quality, manufacturing processes,
-                    and customer service. There are some brands which we have
-                    brought to Indian from countries such as Italy, to introduce
-                    them to the Indian market and you to their superior
-                    products.
+                  All the brands sold on Luxyara are chosen after carefully looking at their product quality, manufacturing processes, and customer service. There are some brands which we have brought to all global people  from countries such as Global Buyer to introduce them to the Global market and you to their superior products.
                   </p>
                 </li>
                 <li>
                   <div className="boldfont">
-                    How many days will they take to make my eyeglasses?
+                  How many days will they take to make my order?
                   </div>
                   <p>
-                    We promise to deliver your purchases to you as quickly as
-                    possible. We dispatch your order within ~5-12 days of order
-                    confirmation (and receipt of your prescription, if needed),
-                    based on the products ordered. It takes 2-5 days to get
-                    delivered to you post-dispatch, based on your location.
+                  We promise to deliver your purchases to you as quickly as possible. We dispatch your order within ~2-3 days of order confirmation (and receipt of your prescription, if needed), based on the products ordered. It takes 10-12 days to get delivered to you post-dispatch, based on your location.
                   </p>
                 </li>
                 <li>
                   <div className="boldfont">
-                    I don’t like what I have purchased! What is your return
-                    policy?
+                  I don’t like what I have purchased! What is your return policy?
                   </div>
                   <p>
-                    We have a No Questions Asked Return Policy - 14 Days for
-                    Eyeglasses & Contact Lenses and 7 Days for Sunglasses &
-                    Clips
+                  We have a No Questions Asked Return Policy - 30 Days for any our Product .
                   </p>
                 </li>
               </ol>
