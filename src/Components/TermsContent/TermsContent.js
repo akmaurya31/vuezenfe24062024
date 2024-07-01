@@ -48,8 +48,7 @@ const TermsContent = () => {
       <Container className="mt-30 mb-30">
         <TermsContentSection>
           <p>
-            Luxyara is a brand of Luxelace Luxury Private Limited a Company
-            Incorporated under the Companies Act, 2013 having Corporate.{" "}
+          Luxyara Leather is a brand of Rohit Kumar this is a proprietorship firm and it is registered in G.S.T. Act in India.
           </p>
         </TermsContentSection>
 
@@ -138,40 +137,7 @@ const TermsContent = () => {
             authority and the right to do so for and on behalf of them. By
             entering into this Agreement, You state that You have the right to
             bind such individual/s, company/ies, third parties or any entities
-            to this Agreement. The Services made available on or through this
-            Website has been made available to You for the specific purpose of
-            enabling Users to purchase original merchandise such as eyewear
-            (which includes both spectacles and contact lens), watches and bags
-            from various high end brands (collectively, "Products"). It is not
-            intended to be providing You with any nature of certification,
-            guarantee or warranty or any professional advice and is a mere
-            information and guidance. By accessing, browsing and using this
-            Website/s, You agree and acknowledge that You understand this
-            limited and restricted use, and agree that You will not rely on the
-            information and materials contained in this Website for any purposes
-            except as is intended. You further agree that in all actual matters,
-            You are ultimately responsible for determining Your specific
-            requirements. You are strictly prohibited from unauthorized use of
-            our systems or this Website/s, including but not limited to
-            unauthorized entry into our systems, misuse of passwords, or misuse
-            of any information posted to this Website. You acknowledge that the
-            Company may disclose and transfer any information that You provide
-            through this Website to (i) our affiliate or information providers,
-            (ii) to any third party but strictly with Your permission, or (iii)
-            if we are legally bound to disclose any information due to
-            compulsions under law. You consent to the transmission, transfer or
-            processing of such information to, or through, any country in the
-            world, as we deem necessary or appropriate, and by using and
-            providing information through this Website You agree to such
-            transfers. You expressly agree and acknowledge that usage of the
-            Website/s may be monitored, tracked and recorded. As such, You
-            expressly consent to such monitoring, tracking and recording. You
-            are responsible for being familiar with the current version of these
-            Terms and Conditions posted on the Website during each session. By
-            the continued accessing of this Website or the Services, You
-            implicitly agree to be bound by the revised terms and conditions.
-            Any such revisions will be duly posted on this Website and the
-            Company may, if it chooses, send you an e-mail in this regard.
+            to this Agreement. The Services made available on or through this Website has been made available to You for the specific purpose of enabling Users to purchase original merchandise such as Leather & Surgical Belts and Auto Parts (which includes both ), watches and bags from various high end brands (collectively, "Products"). It is not intended to be providing You with any nature of certification, guarantee or warranty or any professional advice and is a mere information and guidance. By accessing, browsing and using this Website/s, You agree and acknowledge that You understand this limited and restricted use, and agree that You will not rely on the information and materials contained in this Website for any purposes except as is intended. You further agree that in all actual matters, You are ultimately responsible for determining Your specific requirements. You are strictly prohibited from unauthorized use of our systems or this Website/s, including but not limited to unauthorized entry into our systems, misuse of passwords, or misuse of any information posted to this Website. You acknowledge that the Company may disclose and transfer any information that You provide through this Website to (i) our affiliate or information providers, (ii) to any third party but strictly with Your permission, or (iii) if we are legally bound to disclose any information due to compulsions under law. You consent to the transmission, transfer or processing of such information to, or through, any country in the world, as we deem necessary or appropriate, and by using and providing information through this Website You agree to such transfers. You expressly agree and acknowledge that usage of the Website/s may be monitored, tracked and recorded. As such, You expressly consent to such monitoring, tracking and recording. You are responsible for being familiar with the current version of these Terms and Conditions posted on the Website during each session. By the continued accessing of this Website or the Services, You implicitly agree to be bound by the revised terms and conditions. Any such revisions will be duly posted on this Website and the Company may, if it chooses, send you an e-mail in this regard.
           </p>
         </TermsContentSection>
 
@@ -179,47 +145,14 @@ const TermsContent = () => {
           <h2>3. General Terms and Conditions</h2>
           <p>
             <ul>
-              <li>
-                Returns and exchange of the products will be done within 14 days
-                from the date of delivery.
-              </li>
-              <li>
-                By choosing to go for this offer, the customer hereby confirms
-                that he/she has studied these detailed Terms and Conditions and
-                agrees to be bound by the same.
-              </li>
-              <li>
-                Every person who desires to avail this offer may do so pursuant
-                to independent inquiry, investigation and analysis and shall not
-                have any claim against Luxyara, its employees, directors,
-                representatives or affiliates whatsoever by reason of any loss
-                which may be suffered by such person consequent to or in
-                connection with the sale, whether by reason of anything stated
-                or omitted to be stated herein.
-              </li>
-              <li>
-                Luxyara reserves the right to amend or modify these terms
-                (including price) without giving any kind of prior intimation.
-              </li>
-              <li>
-                These T&C’s are governed under the laws of India. All disputes
-                will be settled in the exclusive jurisdiction of the courts of
-                New Delhi.
-              </li>
-              <li>
-                The product images shown under this offer are for illustration
-                purposes only and may not be an exact representation of the
-                product
-              </li>
-              <li>
-                The Company reserves the right to change the product images and
-                specifications at any time without any prior notice
-              </li>
-              <li>
-                For more information or queries, get in touch here 7.
-                support@Luxyara.com. *In additions of these the terms of use on
-                the Luxyara’s website shall also be applicable.
-              </li>
+           <li>  Returns and exchange of the products will be done within 30 days from the date of delivery.</li>
+           <li>By choosing to go for this offer, the customer hereby confirms that he/she has studied these detailed Terms and Conditions and agrees to be bound by the same.</li>
+           <li>Every person who desires to avail this offer may do so pursuant to independent inquiry, investigation and analysis and shall not have any claim against Luxyara, its employees, directors, representatives or affiliates whatsoever by reason of any loss which may be suffered by such person consequent to or in connection with the sale, whether by reason of anything stated or omitted to be stated herein.</li>
+           <li>Luxyara reserves the right to amend or modify these terms (including price) without giving any kind of prior intimation.</li>
+           <li>These T&C’s are governed under the laws of India. All disputes will be settled in the exclusive jurisdiction of the courts of District Bahraich of u.p.</li>
+           <li>The product images shown under this offer are for illustration purposes only and may not be an exact representation of the product</li>
+           <li>The Company reserves the right to change the product images and specifications at any time without any prior notice</li>
+           <li>For more information or queries, get in touch here . hi@luxyaragroup.io *In additions of these the terms of use on the Luxyara’s website shall also be applicable.</li>
             </ul>
           </p>
         </TermsContentSection>
@@ -351,7 +284,7 @@ const TermsContent = () => {
           <p>
             Luxyara Cash and Luxyara Cash + Discount Redemption Process
             <ul>
-              <li>- Login to Luxyara.com (Mobile App/Mobile Site/Website).</li>
+              <li>- Login to Luxyaragroup.io (Mobile App/Mobile Site/Website).</li>
               <li>- Add eligible products to the cart.</li>
               <li>- Proceed to checkout.</li>
               <li>
@@ -551,7 +484,7 @@ const TermsContent = () => {
               <li>
                 - These terms and conditions must be read in conjunction with
                 the other terms and conditions of the usage of the Luxyara App
-                and/or Luxyara's website available at ⦁ https://wwww.Luxyara.io
+                and/or Luxyara's website available at ⦁ https://wwww.Luxyaragroup.io
               </li>
             </ul>
           </p>
@@ -572,7 +505,7 @@ const TermsContent = () => {
             displayed or attempts to display on the Website/s as accurately as
             is possible, colours of the Products that is displayed on the
             Website/s. However, the colours visible to You is solely dependent
-            on Your monitor. Hence, no guarantee is provided by the Company
+            on Your screen. Hence, no guarantee is provided by the Company
             regarding Your visibility of the colours on the Website/s. The
             Company does not provide any warranty or guarantee that the Product
             descriptions are accurate, complete, reliable, current, or
@@ -580,7 +513,7 @@ const TermsContent = () => {
             described, Your sole remedy is to return it in unused, unsoiled and
             resale condition. The Company currently offers you the following:
           </p>
-          <p>Eyewear through its website wwww.Luxyara.io</p>
+          <p>product through its website wwww.Luxyaragroup.io</p>
         </TermsContentSection>
 
         <TermsContentSection>
@@ -590,13 +523,10 @@ const TermsContent = () => {
             Product/s on the Website/s You acknowledge and agree that:
           </p>
           <p>
-            You have a written and valid prescription from a doctor regarding
-            your prescription glasses or lenses and the information supplied to
-            the Company will be accurate;
+          You have a written and valid Choice & Requirement from your choice regarding your choice our product  and the information supplied to the Company will be accurate
           </p>
           <p>
-            You consent to the Company contacting your doctor to verify the
-            authenticity of the prescription if required;
+          You consent to the Company contacting your faithful any person to verify the authenticity of the choice if required;
           </p>
           <p>
             That any non-delivery or wrong delivery of the Products by the
@@ -645,7 +575,7 @@ const TermsContent = () => {
           <p>
             You will have to submit Your Order for the purchase of the Product
             as detailed under the Website/s or you can e-mail us at
-            support@Luxyara.io or contact us at 000000444.
+            hi@Luxyaragroup.io or contact us at +91 8090522232.
           </p>
           <p>
             Once the order is submitted it an express intention to purchase the
@@ -663,8 +593,8 @@ const TermsContent = () => {
           </p>
           <p>
             You acknowledge that with respect to prescription glasses the
-            Company reserves the right to verify the same with Your prescribing
-            doctor as well as independent qualified optician. And the acceptance
+            Company reserves the right to verify the same with Your faithful person
+             as well as independent qualified faithful. And the acceptance
             of the order by the Company is subject to the same.
           </p>
           <p>All orders will be confirmed via e-mail.</p>
@@ -682,8 +612,7 @@ const TermsContent = () => {
           <h2>9. PRICING AND PAYMENT</h2>
           <p>
             The prices for Product/s are described on the Website/s and are
-            incorporated into these terms by reference. All prices are in Indian
-            rupees. The prices, products and services are subject to change at
+            incorporated into these terms by reference. All prices are in US Dollar. The prices, products and services are subject to change at
             the Company’s discretion. (b) All prices are inclusive of any tax
             that may be required to be remitted to tax authorities. (c) The
             Company will use its best efforts to ensure that the accuracy of the
