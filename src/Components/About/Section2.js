@@ -16,8 +16,8 @@ const Section2 = () => {
                 <h3>Seeing beyond the ordinary</h3>
                 <h2>Our Story</h2>
                 <h4></h4>
-                <p>Luxyara is not just a brand but a signature style. Our passion for eyewear goes beyond just frames and lenses; it's about embracing individuality, expressing your unique style, and seeing the world through a lens that reflects your personality. Discover the story behind our brand and why we're more than just an eyewear company.</p>
-                <p>At Luxyara, we believe that eyewear is not just a necessity but a statement of self-expression. Our journey began with a simple idea – to create eyewear that not only enhances your vision but also complements your lifestyle. Founded in 2023, we set out to redefine the eyewear experience, blending fashion-forward designs with cutting-edge technology.</p>
+                <p>Luxyara Is Where Collections Meets Style. We Pride Ourselves On Crafting Premium All Product That Seamlessly Blends Innovation And Fashion. With A Commitment To Quality And A Passion For Design, Luxyara Brings Clarity And Confidence To Your World.</p>
+                <p>Luxyara is not just a brand but a signature style. Our passion for our products goes beyond just Leather & Surgical belts and Auto Parts ; it's about embracing individuality, expressing your unique style, and tuch the world through a tuch that reflects your personality. Discover the story behind our brand and why we're more than just an Leather / Surgical Belts And Auto Parts company.</p>
             </Col>
         </Row>
 
