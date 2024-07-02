@@ -737,8 +737,8 @@ const TermsContent = () => {
             not misused by any third party. In the event of Your becoming aware
             of any unauthorized or misuse of the information provided by You to
             the Company, You are requested to forthwith contact the Company at
-            Luxelace Luxury Private Limited, A-63 Sector 4, Noida, Uttar Pradesh
-            201301. The Company cannot and will not be liable for any loss or
+            Luxyaragroup.io Address: Gangapur Post Gangapur Block mihinpurwa, District Bahraich Uttar Pradesh
+            271855. The Company cannot and will not be liable for any loss or
             damage arising from Your failure to comply with this Section.
           </p>
         </TermsContentSection>
@@ -999,7 +999,7 @@ const TermsContent = () => {
             your purchase through the website, in the event you are unhappy
             you’re your purchase provided You meet with the following
             conditions: (a) The request for return, exchange or refund should be
-            raised within 14 (fourteen) days of the receipt of the products from
+            raised within 30 (thirty) days of the receipt of the products from
             our Website; (b) The price tag and any other identification tag, the
             invoice and the original packing must be intact and sent back; (c)
             The product should not have been used or should not have any dirt or
@@ -1011,23 +1011,23 @@ const TermsContent = () => {
             applicable; (f) The Company has a dedicated team which will check
             the returned products and their decision of your request will be
             final to accept or reject; (g) In case your request is accepted by
-            our team, we would refund you an amount upto Rs. 100 towards the
+            our team, we would refund you an amount upto $25 towards the
             shipping cost or provide you with a voucher; (h) To request for a
             return, refund or exchange, please contact our customer care at ⦁
-            1800-202-4444 or mail us at ⦁ support@Luxyara.com. .and we will get
+            +91 8090522232 or mail us at ⦁ hi@Luxyaragroup.io and we will get
             in touch with you. Following are the additional requirements for
             specific products: (a) For boxes in which the product is stored:
             Ensure all components are intact included any beads, threads, glass
             motifs, zips, buckles, etc. The boxes must be unwashed and there
-            should no stains. (b) For lenses: Ensure no scratches are made. Lens
+            should no stains. (b) For products: Ensure no scratches are made. Lens
             should remain intact and must be returned with all the original box,
             instructions, guarantee and any other extras or complimentary
-            offers, if any. (c) For glasses: Ensure no scratches are made. The
-            frames should not be bent or twisted. All screws and any embedment
+            offers, if any. (c) For products: Ensure no scratches are made. The
+            products should not be bent or twisted. All screws and any embedment
             should remain intact and must be returned with all the original box,
             instructions, guarantee and any other extras or complimentary
             offers, if any. The refund, return or exchange process will be
-            initiated only after we have received the product/s in the condition
+            initiated only after we have received the products in the condition
             as mentioned above. As stated You could either get a refund of cash
             or exchange it for a voucher. If this is not applicable, You could
             exchange the purchase product for a different product of the same
@@ -1164,8 +1164,7 @@ const TermsContent = () => {
             including limitations on damages, arbitration of disputes, and
             application of the law of the Republic of India. If You have any
             concern about privacy at this Website, please send us a thorough
-            description to Luxelace Luxury Private Limited, A-63, Sector-4
-            Noida, Uttar Pradesh 201 and we will try to resolve it. Our business
+            description to  Luxyaragroup.io Address: Gangapur Post Gangapur Block mihinpurwa, District Bahraich Uttar Pradesh and we will try to resolve it. Our business
             changes constantly. This Notice and the Terms of Membership will
             change also, and use of information that we gather now is subject to
             the Privacy Policy in effect at the time of use. We may e-mail
@@ -1243,8 +1242,7 @@ const TermsContent = () => {
             that You have breached any of these terms and conditions, whether
             intentionally or by implication; (d) The Company may terminate the
             Agreement, it is so required to be one by an express direction of
-            law. Please use the following address for all communication: A-63,
-            Sector 4, Noida, Uttar Pradesh 201301. The Company hereby expressly
+            law. Please use the following address for all communication: Luxyaragroup.io Address: Gangapur Post Gangapur Block mihinpurwa, District Bahraich Uttar Pradesh. The Company hereby expressly
             states that this Service (including, without limitation, the
             underlying network, system, software, servers, various directories
             and listings, various message and news and bulletin boards, blogs,
@@ -1265,19 +1263,18 @@ const TermsContent = () => {
           <h2>27. JURISDICTION</h2>
           <p>
             The Company controls and operates this Website/s from its registered
-            office in New Delhi, India, and makes no representation that these
+            office in Lucknow, India, and makes no representation that these
             materials are appropriate or available for use in other locations.
             If You use this Website/s from other locations, You are responsible
             for compliance with applicable local laws. This Agreement shall be
-            treated as though it were executed and performed in New Delhi, India
+            treated as though it were executed and performed in Lucknow, India
             and shall be governed by and construed in accordance with the local
             domestic laws of India (without regard to conflict of law
             principles). All legal proceedings arising out of or in connection
-            with this Agreement shall be brought solely in New Delhi, India. All
+            with this Agreement shall be brought solely in Lucknow, India. All
             disputes that may arise shall be resolved in accordance with rules
             specified under the Indian Arbitration and Conciliation Act, 1996
-            and venue for arbitration shall be New Delhi. The courts in New
-            Delhi shall have the sole jurisdiction regarding the subject matter
+            and venue for arbitration shall be Lucknow. The courts in Lucknow/Bahraich shall have the sole jurisdiction regarding the subject matter
             of this Agreement.
           </p>
         </TermsContentSection>
@@ -1311,100 +1308,38 @@ const TermsContent = () => {
             hereto.{" "}
           </p>
           <p>
-            (f) Luxyara Solutions Pvt. Ltd. sells products under various brands &
-            sub-brands (including its own brands such as John Jacobs and
-            others).{" "}
+            (f) Luxyaragroup.io sells products under various brands &
+            sub-brands.
           </p>
           <p>
             (g) In case of any issue, you may reach out to our grievance officer
-            Mail on @Luxyara.io contact no. 12344322133.
+            Mail on hi@Luxyaragroup.io contact no.+91 8090522232.
           </p>
         </TermsContentSection>
 
         <TermsContentSection>
-          <h2>29. TERMS AND CONDITIONS FOR EYE TESTING APPOINTMENT</h2>
+          <h2>29. TERMS AND CONDITIONS FOR ALL PRODUCTS APPOINTMENT</h2>
           <p>
-            - Luxyara offers a facility for the booking of eye testing
-            appointments. You may make appointments for eye testing by
-            visiting 0. https://www.Luxyara.com/HTO/ or dialling 1234556 By
+            - Luxyara offers a facility for the booking of all products
+            appointments. You may make appointments for all products by
+            visiting 0. https://www.Luxyaragroup.io/HTO/ or dialling +91 8090522232 By
             making an appointment, you are confirming that: (i) You consent to
             an executive engaged by us to visit and be present at the premises
-            designated by you for the purpose of eye testing and further, to pay
-            any charges associated with such eye testing; (ii) You will be
+            designated by you for the purpose of all products and further, to pay
+            any charges associated with such all products; (ii) You will be
             available to attend in person at the designated premises at the
             chosen date and time; (iii) The information provided by you to us
             while making the appointment and also the feedback and inputs
             provided by you to the executive is true and accurate; (iv) You
-            consent to us contacting you in connection with the eye testing
+            consent to us contacting you in connection with the all products
             appointment.
           </p>
           <p>
-            - The calls made by you for the purpose of booking the eye testing
+            - The calls made by you for the purpose of booking the all products
             appointment may be recorded for quality checking and feedback
             purposes.
           </p>
-          <p>
-            - Please note that our executive will not undertake any eye
-            examination and recommend you to an Ophthalmologist in case of the
-            following: (i) If the executive is not able to achieve 6/6 Vision
-            (best-corrected visual acuity) in any eye; (ii) If the executive
-            sees any abnormality in cornea or lid (external eye structures) like
-            scar, excessive redness, discharge, watering which are indicative of
-            infection/injury; (iii) If your blood sugar or hypertension is not
-            controlled; (iv) If your vision is not improving with pin hole test;
-            (v) If the executive is unable to get a reading with spot vision and
-            also your previous prescription or power of glasses is not
-            available; (vi) Children below the age of 12 years; (vi) Cases of
-            glaucoma.
-          </p>
-          <p>
-            - The refraction done and/ or a prescription given is not a complete
-            eye-check up and we do not prescribe any medicine/ eye drops.. This
-            check-up will not detect any ailments related to the eyes. The
-            executive shall undertake an elementary eye check which shall be
-            limited to the following: (i) External examination of the eye with
-            torch light; (ii) Mobility of the eyes in different gaze; (iii) Near
-            point of convergence assessment; (iv) Assessment of vision; (v)
-            Refractive error assessment; (vi) Providing prescription; (vii)
-            Suggesting spectacle lens and frames as per your requirement.
-          </p>
-          <p>
-            - You may provide us with preferred time slots while making the
-            appointment. The executive will use reasonable endeavours to keep
-            any appointment you make with us for eye testing but we cannot
-            guarantee that the executive will arrive on time in each case. If
-            the executive is delayed, he or she will try to contact you a
-            reasonable time in advance to let you know of any expected delay.
-            From time to time, due to unavoidable reasons, we may also have to
-            re-schedule an appointment. In such an event, we will try to
-            re-schedule another appointment as soon as reasonably possible. We
-            will not be responsible to you for any delay in keeping appointments
-            or if we have to re-schedule an appointment. We will not be
-            responsible if we are impaired or stopped from carrying out the eye
-            testing by you for any reason whatsoever or are otherwise unable to
-            provide carry out the eye testing as a result of any event that is
-            outside our reasonable control
-          </p>
-          <p>
-            - You hereby authorise the executive to enter the designated
-            premises (provided by you at the time of making the appointment) for
-            the purpose of conducting the eye test. If the designated premises
-            are not reasonably accessible to the executive, you will have the
-            right to designate an alternate premise where the eye test may be
-            conducted. We reserve the right to cancel any eye testing
-            appointments which are not reasonably accessible to the executive.
-          </p>
-          <p>
-            - You agree to provide our executive with a safe working
-            environment, working space, electrical power and any other
-            facilities required for the purpose of conducting the eye test. You
-            acknowledge that the executive may be an independent contractor or
-            an employee. All our executives are certified Optometrists or
-            Refractionists. You further acknowledge that we will not have any
-            liability or claims that arise out of the actions of the executive.
-            The results of the eye tests are based on the input provided by you
-            and is subject to acceptable variance limits.
-          </p>
+           
           <p>
             - In no event shall we be liable for damages of any kind, including,
             without limitation, any direct, special, indirect, punitive,
@@ -1412,7 +1347,7 @@ const TermsContent = () => {
             any loss or damages in the nature of, or relating to, lost business,
             medical injury, personal injury, wrongful death, improper diagnosis,
             inaccurate information, improper treatment or any other loss
-            incurred in connection with you availing the eye testing
+            incurred in connection with you availing the all products
             appointment. The foregoing limitation shall apply even if we knew of
             or ought to have known of the possibility of such damages.
           </p>
