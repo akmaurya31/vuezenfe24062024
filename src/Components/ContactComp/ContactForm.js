@@ -191,9 +191,10 @@ const ContactForm = () => {
             {/* <img src={formImg} /> */}
             <div>
               <div className="address-shop">
-                <h3 className="shop-name">Luxyara PRIVATE LIMITED</h3>
+                <h3 className="shop-name">Luxyaragroup.io</h3>
                 <p className="shop-address">
-                  Address- A-63, Sector 4, Noida, 201301
+                 Address: Gangapur Post Gangapur Block mihinpurwa, District Bahraich Uttar Pradesh
+                271855.
                 </p>
               </div>
 
@@ -204,12 +205,12 @@ const ContactForm = () => {
                 <p className="content_subhead">
                   We're here to help! Reach out to us at
                 </p>
-                <p className="content">support@Luxyara.io</p>
+                <p className="content">hi@Luxyaragroup.io</p>
               </div>
 
               <div className="address-shop">
                 <h3 className="shop-name">Or call us at</h3>
-                <p className="content">8800682518</p>
+                <p className="content">+91 8090522232</p>
               </div>
 
               <div>

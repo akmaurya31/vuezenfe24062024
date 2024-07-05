@@ -67,19 +67,19 @@ const CancellationContent = () => {
           </p>
           <p>
             To cancel your order, please contact our customer service team at
-            [support@Luxyara.io /8800682518] with your order details.
+            [hi@Luxyaragroup.io /+91 8090522232] with your order details.
           </p>
         </TermsContentSection>
 
         <TermsContentSection>
-          <h2>Customized or Prescription Eyewear</h2>
+          <h2>Customized or suggestions/choice our products</h2>
           <p>
-            Orders for customized or prescription eyewear cannot be canceled
+            Orders for customized or suggestions our products cannot be canceled
             once they have entered production. Please ensure all details are
             accurate before placing your order.
           </p>
           <p>
-            Changes to prescription orders must be made within 24–48 hours of
+            Changes to suggestions/choice orders must be made within 24–48 hours of
             purchase and the item will be dispatched accordingly. Any
             alterations requested after this period may incur additional
             charges.
@@ -90,8 +90,8 @@ const CancellationContent = () => {
           <h2>Return Policy</h2>
           <p>
             If you are dissatisfied with your purchase, you may return it within
-            7 days for a full refund or exchange, excluding shipping costs.
-            Eyewear must be in its original condition, unworn, and with all tags
+            30 days for a full refund or exchange, excluding shipping costs.
+            our products must be in its original condition, unworn, and with all tags
             and packaging intact.
           </p>
           <p>
@@ -122,7 +122,7 @@ const CancellationContent = () => {
         </TermsContentSection>
 
         <TermsContentSection>
-          <h2>Cancellation by Luxyara</h2>
+          <h2>Cancellation by Luxyaragroup.io</h2>
           <p>
             We reserve the right to cancel any order due to unforeseen
             circumstances, including but not limited to inventory issues,

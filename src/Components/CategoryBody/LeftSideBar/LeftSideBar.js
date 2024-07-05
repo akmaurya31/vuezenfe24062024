@@ -216,7 +216,7 @@ const LeftSideBar = ({ onClose, responseData }) => {
         ) : (
           <li>
             <label onClick={() => toggleItem(1)}>
-              Gender
+              Categories
               <FontAwesomeIcon
                 icon={openItem.includes(1) ? faMinus : faPlus}
                 className="plusicon"
@@ -246,7 +246,7 @@ const LeftSideBar = ({ onClose, responseData }) => {
           </li>
         )}
 
-        <li>
+        <li className="d-none">
           <label onClick={() => toggleItem(2)}>
             Shape
             <FontAwesomeIcon
@@ -390,7 +390,7 @@ const LeftSideBar = ({ onClose, responseData }) => {
           )}
         </li>
 
-        <li>
+        <li className="d-none">
           <label onClick={() => toggleItem(6)}>
             Weight Group
             <FontAwesomeIcon

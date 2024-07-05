@@ -37,15 +37,15 @@ const PrivacyContent = () => {
         <TermsContentSection>
           <h2>SECURITY AND PRIVACY</h2>
           <p style={{ marginBottom: "5px" }}>
-            Luxelace Luxury Private Limited is a company duly incorporated under
-            the provisions of the Companies Act, 2013 (hereinafter referred to
-            as ‘Company’), Company knows that You (a visitor or a registered
+            Luxyaragroup.io is a proprietorship duly incorporated under
+            the provisions of the GST Act, 2016 (hereinafter referred to
+            as ‘proprietorship’), proprietorship knows that You (a visitor or a registered
             user) care how information about You is used and shared, and we
             appreciate Your trust that we will do so carefully and sensibly. We
             let You retain as much control as possible over Your personal
             information. However, You may not visit and use our site at any time
             without telling us who You are or revealing the required information
-            about Yourself. To the Company, our most important asset is our
+            about Yourself. To the proprietorship, our most important asset is our
             relationship with You. We are committed to maintaining the
             confidentiality, integrity and security of any personal information
             about our users of our site. We are proud of our privacy practices
@@ -60,12 +60,12 @@ const PrivacyContent = () => {
           <h3>Information You Give Us</h3>
           <p style={{ marginBottom: "5px" }}>
             We receive any information You enter on our Website or give us in
-            any other way, which is stored on the Company’s secure servers. To
+            any other way, which is stored on the proprietorship’s secure servers. To
             clarify, personal information means and includes name, email,
             website user account log in ID and password, mobile and landline
             phone numbers, gender, DOB, address, gift message and eye
             prescription, but excludes any Credit Card, Debit Card or
-            Net-Banking Details, all of which are stored on the Company’s secure
+            Net-Banking Details, all of which are stored on the proprietorship’s secure
             servers and/or in cookies on your computer. You can choose not to
             provide certain information, but then You might not be able to take
             advantage of many of our features. We use the information that You
@@ -73,9 +73,9 @@ const PrivacyContent = () => {
             customizing future commercial transactions, and communicating with
             You and utilising/disclosing, without prejudice to any of Your other
             rights, the same for any other, whether commercial or non-commercial
-            purpose which the Company in its sole discretion considers necessary
+            purpose which the proprietorship in its sole discretion considers necessary
             for its business purposes or otherwise. You can review, add or
-            update certain information by writing to us at support@Luxyara.com.
+            update certain information by writing to us at hi@Luxyaragroup.io.
             When You update information, we usually keep a copy of the prior
             version for our records.
           </p>
@@ -88,7 +88,7 @@ const PrivacyContent = () => {
             server logs Your activities for various diagnostic and analytical
             purposes. However, other than the IP address of Your machine from
             where You are accessing the Service, there are no other personal
-            information maintained by the Company in the log.
+            information maintained by the proprietorship in the log.
           </p>
           <h3>Retention of Information:</h3>
           <p style={{ marginBottom: "5px" }}>
@@ -102,11 +102,11 @@ const PrivacyContent = () => {
             to receive a confirmation when You open e-mail from Your end if Your
             computer supports such capabilities.
           </p>
-          <h3>Sharing of Information Received by the Company:</h3>
+          <h3>Sharing of Information Received by the proprietorship:</h3>
           <p style={{ marginBottom: "5px" }}>
             For the purposes of providing you with our services, we may share
             your information with third parties such as affiliates of the
-            company, service providers etc. When we disclose your personal data
+            proprietorship, service providers etc. When we disclose your personal data
             to such third parties. we make appropriate arrangements as required
             under applicable law to restrict further disclosure. When we
             transfer your personal data to such third parties, we enter into
@@ -150,19 +150,19 @@ const PrivacyContent = () => {
           <h3>Business Transfers:</h3>
           <p style={{ marginBottom: "5px" }}>
             As we continue to develop our business, we might be acquired
-            completely or merge with any other company. In such transactions,
+            completely or merge with any other proprietorship. In such transactions,
             customer information generally is one of the transferred business
             assets. In such a case, we will ensure the protection of Your
             information as per these policies and guidelines. You hereby
             specifically consent and grant permission to the disclosure, and
             transferring, of information to such third parties.
           </p>
-          <h3>Protection of the Company and Others:</h3>
+          <h3>Protection of the proprietorship and Others:</h3>
           <p style={{ marginBottom: "5px" }}>
             We release account and other personal information when we believe
             release is appropriate to comply with law; to enforce or apply our
             Terms and Conditions and other agreements; or protect the rights,
-            property, or safety of Company, our users, or others. This includes
+            property, or safety of proprietorship, our users, or others. This includes
             exchanging information with other companies and organizations for
             fraud protection and other similar matters. You hereby specifically
             consent and grant permission to disclosure and transferring of
@@ -182,18 +182,18 @@ const PrivacyContent = () => {
             enforcement officer or government agency or (ii) where You have
             given Your consent, or (iii) utilize the same for some statistical
             or other representation without disclosing personal data. The
-            information collected from You will be stored on the Company’s
-            secured server and systems. The Company maintains secure and
+            information collected from You will be stored on the proprietorship’s
+            secured server and systems. The proprietorship maintains secure and
             reasonable security practices and procedures which are proprietary
-            and unique to the Company (“Security Practice”). Such Security
+            and unique to the proprietorship (“Security Practice”). Such Security
             Practice involves measures such as but not limited to password
             protection, limitation of access to specified personnel on a need to
             know basis, and security measures including encryption if required
             and other physical security measures to guard against unauthorized
             access to the server and systems and information residing on such
-            server and systems. The Company’s Security Practice protects against
+            server and systems. The proprietorship’s Security Practice protects against
             unauthorized access to, or unauthorized alteration, disclosure or
-            destruction of the information. The Company’s Security Practice
+            destruction of the information. The proprietorship’s Security Practice
             contains managerial, technical, operational and physical security
             control measures which are commensurate with the information assets
             being protected and with the nature of business. You acknowledge and
@@ -206,34 +206,34 @@ const PrivacyContent = () => {
             Login ID email address and password that keeps Your personal
             identity anonymous. Access to Your Registration Information and Your
             personal financial data is strictly restricted to those of our
-            Company employees and contractors, strictly on a need to know basis,
+            proprietorship employees and contractors, strictly on a need to know basis,
             in order to operate, develop or improve the Service. These employees
             or contractors may be subject to discipline, including termination
             and criminal prosecution, if they fail to meet these obligations.
             With the exception of a Login ID in the form of an email address,
             which may be provided on an anonymous basis, and Your Third Party
             Account Information, which is required for providing the services,
-            the Company does not require any information from You that might
+            the proprietorship does not require any information from You that might
             constitute personally identifiable information. It is important for
             You to protect against unauthorized access to Your password and to
             Your computer. Be sure to sign off when finished using a shared
             computer. As described in this Agreement and with Your consent, the
-            Company will from time to time connect electronically to Your online
+            proprietorship will from time to time connect electronically to Your online
             bank, credit card and other online financial accounts to process
-            Your Order. Company will also use other third parties like courier
+            Your Order. proprietorship will also use other third parties like courier
             companies to deliver products that you order on our website, to your
             delivery address.
           </p>
 
           <h2>CONDITIONS OF USE, NOTICES, AND REVISIONS</h2>
           <p style={{ marginBottom: "5px" }}>
-            Please do read the detailed terms and conditions of the Company’s
-            Website situated athttps://www.Luxyara.com/terms-conditions. If You
+            Please do read the detailed terms and conditions of the proprietorship’s
+            Website situated at https://www.Luxyaragroup.io/terms-conditions. If You
             choose to visit this Website, Your visit and any dispute over
             privacy is subject to this Agreement, including limitations on
             damages, arbitration of disputes, and application of the law of the
             Republic of India. If You have any concern about privacy at this
-            Website, please send us a thorough description to support@Luxyara.com
+            Website, please send us a thorough description to hi@Luxyaragroup.io
             and we will try to resolve it. Our business changes constantly. This
             Notice and the Terms and Conditions of Website Use may also change,
             and use of information that we gather now is subject to the Privacy
@@ -245,15 +245,15 @@ const PrivacyContent = () => {
 
           <h2>GRIEVANCE OFFICER</h2>
           <p style={{ marginBottom: "5px" }}>
-            The Company would be glad to provide assistance to You in case You
+            The proprietorship would be glad to provide assistance to You in case You
             have any queries or have any issues pertaining to this Security and
-            Privacy policy. Kindly contact support@Luxyara.com
+            Privacy policy. Kindly contact hi@luxyaragroup.io
           </p>
 
           <h2>COOKIE POLICY</h2>
           <p style={{ marginBottom: "5px" }}>
             A cookie is a small text file that we place on your mobile device to
-            enable various features of Luxyara.com. "Cookies" are used to store
+            enable various features of Luxyaragroup.io. "Cookies" are used to store
             user preferences and to track user trends, so as to enhance Your
             interactive experience and generally improve our services to You.
             You can change Your cookie settings to accept or not accept cookies
@@ -270,7 +270,7 @@ const PrivacyContent = () => {
           </p>
           <h2>NDNC POLICY</h2>
           <p style={{ marginBottom: "5px" }}>
-            By using the website and/or registering yourself at Luxyara.com you
+            By using the website and/or registering yourself at Luxyaragroup.io you
             authorize us to contact you via email or phone call or sms and offer
             you our services, imparting product knowledge, offer promotional
             offers running on website & offers offered by the associated third
