@@ -108,7 +108,7 @@ const LeftSideBar = ({ onClose, responseData }) => {
 
   const navigate = useNavigate();
   const handleCheckboxChange = (item) => {
-    const newUrl = `/glasses/${category}/${catid}/${item?.value}/${item?.id}`;
+    const newUrl = `/${category}/${catid}/${item?.value}/${item?.id}`;
     navigate(newUrl);
   };
   const handleCheckboxMaterialChange = (materialId) => {

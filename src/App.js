@@ -266,11 +266,11 @@ function App() {
                 />
                 <Route path="/detailpage/:id" element={<DetailPage />} />
                 <Route
-                  path="/glasses/:category/:catid/:gender/:genderid"
+                  path="/:category/:catid/:gender/:genderid"
                   element={<WomenEyeglasses />}
                 />
                 <Route
-                  path="/glasses/:category/:catid/:gender"
+                  path="/:category/:catid/:gender"
                   element={<WomenEyeglasses />}
                 />
                 <Route path="/tryon" element={<TryOn3d title="3d Tryon" />} />

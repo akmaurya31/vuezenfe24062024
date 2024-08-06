@@ -515,7 +515,7 @@ const Header = ({
                             onClick={() => {
                               handleToggleNavbar();
                               navigate(
-                                `/glasses/${item?.title?.replace(/ /g, "")}/${
+                                `/${item?.title?.replace(/ /g, "")}/${
                                   item?.id
                                 }/${innerItem?.value}/${innerItem?.id}`
                               );

@@ -11,7 +11,7 @@ const SubCategory = ({ item, innerItem }) => {
           className="image"
           onClick={() =>
             navigate(
-              `/glasses/${item?.title?.replace(/ /g, "")}/${item?.id}/${
+              `/${item?.title?.replace(/ /g, "")}/${item?.id}/${
                 innerItem?.value
               }/${innerItem?.id}`,
               { state: item }
